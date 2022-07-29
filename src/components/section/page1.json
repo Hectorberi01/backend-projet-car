@@ -1,0 +1,113 @@
+{
+  "collectionName": "components_section_page1s",
+  "info": {
+    "displayName": "page1",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "image1": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "titre1": {
+      "type": "string"
+    },
+    "st1": {
+      "type": "string"
+    },
+    "paraphe1": {
+      "type": "richtext"
+    },
+    "st2": {
+      "type": "string"
+    },
+    "paraphe2": {
+      "type": "richtext"
+    },
+    "imgb": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "st3": {
+      "type": "string"
+    },
+    "paraphe3": {
+      "type": "richtext"
+    },
+    "paraphe4": {
+      "type": "richtext"
+    },
+    "paraphe5": {
+      "type": "richtext"
+    },
+    "lesvehiculesp1": {
+      "type": "richtext"
+    },
+    "lesvehiculesp2": {
+      "type": "richtext"
+    },
+    "lesvehiculesp3": {
+      "type": "richtext"
+    },
+    "lesvehiculesp4": {
+      "type": "richtext"
+    },
+    "lesvehiculesp5": {
+      "type": "richtext"
+    },
+    "rtext1": {
+      "type": "richtext"
+    },
+    "rtext2": {
+      "type": "richtext"
+    },
+    "rtext3": {
+      "type": "richtext"
+    },
+    "rtext4": {
+      "type": "richtext"
+    },
+    "rtext5": {
+      "type": "richtext"
+    },
+    "rtext6": {
+      "type": "richtext"
+    },
+    "rtext7": {
+      "type": "richtext"
+    },
+    "sercive1": {
+      "type": "richtext"
+    },
+    "sercive2": {
+      "type": "richtext"
+    },
+    "sercive3": {
+      "type": "richtext"
+    },
+    "sercive4": {
+      "type": "richtext"
+    },
+    "sercive5": {
+      "type": "richtext"
+    },
+    "sercive6": {
+      "type": "richtext"
+    }
+  }
+}

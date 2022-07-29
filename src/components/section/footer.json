@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_section_footers",
+  "info": {
+    "displayName": "Footer"
+  },
+  "options": {},
+  "attributes": {
+    "Contact": {
+      "type": "richtext"
+    },
+    "About": {
+      "type": "richtext"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "piedspages",
+  "info": {
+    "singularName": "piedspage",
+    "pluralName": "piedspages",
+    "displayName": "Piedspage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Piedspages": {
+      "type": "component",
+      "repeatable": true,
+      "component": "section.footer"
+    }
+  }
+}

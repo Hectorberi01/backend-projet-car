@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "imagegifs",
+  "info": {
+    "singularName": "imagegif",
+    "pluralName": "imagegifs",
+    "displayName": "imagegif"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "gif1": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

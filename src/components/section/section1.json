@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_section_section1s",
+  "info": {
+    "displayName": "section1"
+  },
+  "options": {},
+  "attributes": {
+    "imghead": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "titre1": {
+      "type": "string"
+    },
+    "stitre1": {
+      "type": "string"
+    }
+  }
+}

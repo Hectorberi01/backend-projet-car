@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "bloc1s",
+  "info": {
+    "singularName": "bloc1",
+    "pluralName": "bloc1s",
+    "displayName": "bloc1"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "text": {
+      "type": "richtext"
+    }
+  }
+}
